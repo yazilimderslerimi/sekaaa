@@ -1,0 +1,8 @@
+User-agent: *
+Disallow:
+Sitemap: https://sekabet1308.vercel.app/sitemap.xml
+Crawl-delay: 5
+# Belirli dosyaların indekslenmesine izin
+Allow: /images/
+Allow: /css/
+Allow: /js/
